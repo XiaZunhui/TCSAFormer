@@ -2,6 +2,9 @@
 Zunhui Xia, Hongxing Li, Libin Lan
 
 ## Performance comparison of different medical image segmentation models：
+<p align="left">
+<img src="figs/comparison.png" width="60%">
+</p>
 
 ## TCSAFormer Architecture:
 <p align="center">
