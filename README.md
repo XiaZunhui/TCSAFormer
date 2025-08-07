@@ -11,7 +11,7 @@ Zunhui Xia, Hongxing Li, Libin Lan
 <img src="figs/architecture.png" width="80%">
 </p>
 
-## The overall architecture of CA:
+## Compression Attention:
 <p align="center">
 <img src="figs/CA.png" width="80%">
 </p>
