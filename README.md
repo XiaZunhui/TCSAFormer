@@ -15,3 +15,9 @@ Zunhui Xia, Hongxing Li, Libin Lan
 <p align="center">
 <img src="figs/CA.png" width="80%">
 </p>
+
+## Usage
+### Environment
+- python == 3.10
+- torch == 2.0.0+cu118
+- torchaudio == 2.0.1+cu118
